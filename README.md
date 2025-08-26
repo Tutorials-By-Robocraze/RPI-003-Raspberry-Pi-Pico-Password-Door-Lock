@@ -1,9 +1,3 @@
-# RPI-003-Raspberry-Pi-Pico-Password-Door-Lock
-Secure your door with a smart password lock using Raspberry Pi Pico and a 4x4 keypad! Enter the correct passcode to rotate a servo and unlock the door — simple, fun, and interactive!
-Got it 👍 I’ll rearrange the README so that **Components Required** comes first and then the **Project Demo** section.
-
----
-
 # 🔒 Raspberry Pi Pico Password Door Lock
 
 A smart door lock system using **Raspberry Pi Pico**, **4x4 keypad**, and **servo motor**.
