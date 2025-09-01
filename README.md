@@ -21,6 +21,7 @@ Check out the working demo on Instagram:
 👉 [Watch the Reel](https://www.instagram.com/reel/DNsUmaH5kku/?igsh=MWszamFtOTN6OHl1MQ==)
 
 
-
+## Circuit Diagram
+![Pico Password Lock Circuit](./password_lock_circuit_diagram.png)
 
 
